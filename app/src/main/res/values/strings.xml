@@ -4,4 +4,7 @@
     <string name="title_home">Agenda</string>
     <string name="title_dashboard">Alarma</string>
     <string name="title_notifications">Cuenta</string>
+    <string name="ClienteX">ClienteX</string>
+    <string name="tiempo">30 minutos</string>
+    <string name="status_time">a tiempo</string>
 </resources>
